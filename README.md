@@ -22,3 +22,6 @@ Welcome to my GitHub profile! I'm a Web Designer and Web Developer, passionate a
 - 📷 [Instagram](#) *(https://www.instagram.com/irfn.dhm)*
 - 💼 [LinkedIn](#) *(https://www.linkedin.com/in/irfan-dhamhudi-3871b032b)*
 
+- <a href="(https://www.linkedin.com/in/irfan-dhamhudi-3871b032b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfn" height="30" width="40" /></a>
+- <a href="https://www.instagram.com/irfn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irfn" height="30" width="40" /></a>
+
